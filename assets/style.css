@@ -47,5 +47,5 @@ ul li {
 }
 .cheked {
   text-decoration: line-through;
-  color: rgb(213, 236, 213);
+  background-color: rgb(213, 236, 213);
 }
